@@ -19,4 +19,5 @@ denors: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically lin
 ```
 
 **Limitations**
--Massive binary.. lol
+
+Massive binary.. lol
